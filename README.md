@@ -1,4 +1,2 @@
 # SwiftUI-SpotifyClone
-SwiftUI / Spotify Clone
-
-![Uploading Ekran Resmi 2023-09-28 15.16.54.png…]()
+Swiss![SwiftUI:Spotify](https://github.com/mkemalarda/SwiftUI-SpotifyClone/assets/101436801/57b2f49a-05c4-42e0-ac19-778c141ccef4)
